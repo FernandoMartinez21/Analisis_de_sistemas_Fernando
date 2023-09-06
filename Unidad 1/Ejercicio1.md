@@ -1,9 +1,9 @@
 # DESCRIPCION DEL PROBLEMA
+
 Realize un programa que permita sumar,resta,multiplicar y dividir dos numeros enteros 
 
 
 # SOLUCION DEL PROBLEMA
-
 
 #include<iostream>
 #include<stdlib.h>
